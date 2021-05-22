@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dariachi85/card-component)
 - Live Site URL: [Add live site URL here](https://dariachi85.github.io/card-component/)
 
 ## My process
