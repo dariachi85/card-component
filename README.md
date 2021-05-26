@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dariachi85/card-component)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-responsive-site-using-flexbox-media-query-and-bem-No3Qvk6-O)
 - Live Site URL: [Add live site URL here](https://dariachi85.github.io/card-component/)
 
 ## My process
